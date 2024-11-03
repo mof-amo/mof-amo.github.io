@@ -1,0 +1,38 @@
+name: Generate QR Code and Update Website
+
+on:
+  push:
+    paths:
+      - txt.txt  # Replace with the path of the file to monitor
+
+jobs:
+  generate_qr:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Install QR Code Library
+        run: |
+          sudo apt-get install -y python3-pip
+          pip3 install qrcode[pil]
+
+      - name: Generate QR Code
+        run: |
+          python3 -c "
+          import qrcode
+          with open('txt.txt', 'r') as file:  # Adjust file path
+              text = file.read()
+          img = qrcode.make(text)
+          img.save('qr_code.png')
+          "
+
+      - name: Commit and Push QR Code to GitHub Pages
+        run: |
+          git config --local user.name "GitHub Action"
+          git config --local user.email "action@github.com"
+          git add qr_code.png
+          git commit -m 'Update QR code for file update'
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
