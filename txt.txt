@@ -1,97 +1,61 @@
 Mails
------
-bsse1102@iit.du.ac.bd
-    Sab.Yaad.R3kkh*.Jayega.Vefahim
-barishaillamofo@gmail.com
-    Bebilon.Dhul0.Aaj.Asiriya.Chai.Hoye.Ache
-    6096 1872
-    1003 5469
-    7269 8356
-    2815 9119
-    8224 8090
-    1963 3494
-    0461 9731
-    7540 2259
-    9293 8982
-    7277 5872
-fahimmorshedopee@gmail.com
-    Eka.Rakkhosh.Ghore.Firbena.Aaj.0pee
-f.morshed.opee@gmail.com
-    Do.1.Wanna.Know.You
-Facebook 
-------
-01777625276
-    Why.Do.You.Do.This.2.Me
-fm.op@hotmail.com
-    Why.Do.You.Sheyal.This.1.The.Internet
+# bsse1102@iit.du.ac.bd 		=> Sab.Yaad.R3kkh*.Jayega.Vefahim
+# barishaillamofo@gmail.com 	=> Bebilon.Dhul0.Aaj.Asiriya.Chai.Hoye.Ache
+# fahimmorshedopee@gmail.com	=> Eka.Rakkhosh.Ghore.Firbena.Aaj.0pee
+# f.morshed.opee@gmail.com 		=> Do.1.Wanna.Know.You
+-------------------
+Facebook
+# 01777625276 					=> Why.Do.You.Do.This.2.Me
+# fm.op@hotmail.com 			=> Why.Do.You.Sheyal.This.1.The.Internet
+-------------------
 Hotmail
--------
-fm.op@hotmail.com
-    Wing.Dosa.Hot.Mal3
+# fm.op@hotmail.com 			=> Wing.Dosa.Hot.Mal3
+-------------------
 BdREN
-------
-IP: 103.157.135.138
-rahman
-    @dmin@rahman
+# 103.157.135.138, rahman 		=> @dmin@rahman
+-------------------
 discord
--------
-bsse1102@iit.du.ac.bd 
-    Do.1.Wanna.Hangout.With.You
+# bsse1102@iit.du.ac.bd 		=> Do.1.Wanna.Hangout.With.You
+------------------
 etin
------
-fahimmorshedopee
-    fahimmorshedopee 
+# fahimmorshedopee 				=> fahimmorshedopee
+------------------
 dropbox
---------
-bsse1102@iit.du.ac.bd
-    Do.1.Wanna.Know.You
-dropbox
---------
-2018425585
-    Do.1.Wanna.Know.You
+# bsse1102@iit.du.ac.bd 		=> Do.1.Wanna.Know.You
+------------------
+du
+# 2018425585 					=> Do.1.Wanna.Know.You
+------------------
 whatsapp
--------
-01777625276
-    Do.1.Wanna.Save.You
+# 01777625276 					=> Do.1.Wanna.Save.You
+------------------
 orchid
-------
-f.morshed.opee@gmail.com 
-0009-0000-7576-7597
-    Or.U.Kidding.M3
+# 0009-0000-7576-7597 			=> Or.U.Kidding.M3
+------------------
 Github
-------
-barishaillamofo@gmail.com
-mof-amo
-    Pacha.Shobdo.Durb0l
-FMOpee
-    Do.1.Wanna.Code.You
+# mof-amo 						=> Pacha.Shobdo.Durb0l
+# FMOpee 						=> Do.1.Wanna.Code.You
+------------------
 huggingface
---------
-fmopee
-    Do.1.Wanna.Know.You
+# fmopee 						=> Do.1.Wanna.Know.You
+------------------
 Jetbrains
---------
-bsse1102@iit.du.ac.bd
-    Do.1.Wanna.Know.You
+# bsse1102@iit.du.ac.bd 		=> Do.1.Wanna.Know.You
+------------------
 spotify
---------
-chayamoysheyal@gmail.com
-    Do.1.Wanna.Know.You
+# chayamoysheyal@gmail.com 		=> Do.1.Wanna.Know.You
+------------------
 bluesky
---------
-fmopee.bsky.social
-    Nil.Akasher.Niche.Ami.Rasta.Cholechi.Eka
+# fmopee.bsky.social 			=> Nil.Akasher.Niche.Ami.Rasta.Cholechi.Eka
+------------------
 acm tallip
-----------
-f.morshed.opee@gmail.com
-    Do.11.Wanna.Know.You
+# f.morshed.opee@gmail.com 		=> Do.11.Wanna.Know.You
+------------------
 arxiv
------
-bsse1102@iit.du.ac.bd 
-fahim_morshed
-    Do_1_Wanna_Know_You
+# fahim_morshed 				=> Do_1_Wanna_Know_You
+------------------
 Twitch
-------
-fmopee
-chayamoysheyal@gmail.com 
-    Do.1.Wanna.Twitch.You
+# fmopee 						=> Do.1.Wanna.Twitch.You
+------------------
+overleaf
+# fm.op@hotmail.com 			=> Mon.Demagi
