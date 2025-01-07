@@ -24,6 +24,9 @@ bluesky
 discord
 # bsse1102@iit.du.ac.bd       => Do.1.Wanna.Hangout.With.You
 ------------------
+reddit
+# Shmopeef, chayamoysheyal    => Do.1.Wanna.Meme.You
+------------------
 Twitch
 # fmopee                      => Do.1.Wanna.Twitch.You
 ------------------
@@ -37,7 +40,7 @@ etin
 # fahimmorshedopee            => fahimmorshedopee
 ------------------
 aws
-# f.morshed.opee@gmail.com, fmorshedopee => Do.1.Wanna.Z*ne.You
+# f.morshed.opee,fmorshedopee => Do.1.Wanna.Z*ne.You
 ------------------
 du
 # 2018425585                  => Do.1.Wanna.Know.You
