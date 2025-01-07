@@ -5,33 +5,42 @@ Mails
 # f.morshed.opee@gmail.com    => Do.1.Wanna.Know.You
 # chayamoysheyal@gmail.com    => Jack.Of.All.Trade.Master.Of.N1
 -------------------
-Facebook
-# 01777625276                 => Why.Do.You.Do.This.2.Me
-# fm.op@hotmail.com           => Why.Do.You.Sheyal.This.1.The.Internet
--------------------
 Hotmail
 # fm.op@hotmail.com           => Wing.Dosa.Hot.Mal3
--------------------
-BdREN
-# 103.157.135.138, rahman     => @dmin@rahman
--------------------
-discord
-# bsse1102@iit.du.ac.bd       => Do.1.Wanna.Hangout.With.You
-------------------
-etin
-# fahimmorshedopee            => fahimmorshedopee
 ------------------
 dropbox
 # bsse1102@iit.du.ac.bd       => Do.1.Wanna.Know.You
-------------------
-du
-# 2018425585                  => Do.1.Wanna.Know.You
+-------------------
+Facebook
+# 01777625276                 => Why.Do.You.Do.This.2.Me
+# fm.op@hotmail.com           => Why.Do.You.Sheyal.This.1.The.Internet
 ------------------
 whatsapp
 # 01777625276                 => Do.1.Wanna.Save.You
 ------------------
-orchid
-# 0009-0000-7576-7597         => Or.U.Kidding.M3
+bluesky
+# fmopee.bsky.social          => Nil.Akasher.Niche.Ami.Rasta.Cholechi.Eka
+-------------------
+discord
+# bsse1102@iit.du.ac.bd       => Do.1.Wanna.Hangout.With.You
+------------------
+Twitch
+# fmopee                      => Do.1.Wanna.Twitch.You
+------------------
+spotify
+# chayamoysheyal@gmail.com    => Do.1.Wanna.Know.You
+-------------------
+BdREN
+# 103.157.135.138, rahman     => @dmin@rahman
+------------------
+etin
+# fahimmorshedopee            => fahimmorshedopee
+------------------
+aws
+# f.morshed.opee@gmail.com, fmorshedopee => Do.1.Wanna.Z*ne.You
+------------------
+du
+# 2018425585                  => Do.1.Wanna.Know.You
 ------------------
 Github
 # mof-amo                     => Pacha.Shobdo.Durb0l
@@ -43,11 +52,11 @@ huggingface
 Jetbrains
 # bsse1102@iit.du.ac.bd       => Do.1.Wanna.Know.You
 ------------------
-spotify
-# chayamoysheyal@gmail.com    => Do.1.Wanna.Know.You
+overleaf
+# fm.op@hotmail.com           => Mon.Demagi
 ------------------
-bluesky
-# fmopee.bsky.social          => Nil.Akasher.Niche.Ami.Rasta.Cholechi.Eka
+orchid
+# 0009-0000-7576-7597         => Or.U.Kidding.M3
 ------------------
 acm tallip
 # f.morshed.opee@gmail.com    => Do.11.Wanna.Know.You
@@ -55,11 +64,5 @@ acm tallip
 arxiv
 # fahim_morshed               => Do_1_Wanna_Know_You
 ------------------
-Twitch
-# fmopee                      => Do.1.Wanna.Twitch.You
-------------------
-overleaf
-# fm.op@hotmail.com           => Mon.Demagi
-------------------
-aws
-# f.morshed.opee@gmail.com, fmorshedopee => Do.1.Wanna.Z*ne.You
+remote pc monnect
+# bsse1102@iit.du.ac.bd       => Do.1.Wanna.Know.You
