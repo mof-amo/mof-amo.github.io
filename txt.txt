@@ -55,6 +55,9 @@ huggingface
 Jetbrains
 # bsse1102@iit.du.ac.bd       => Do.1.Wanna.Know.You
 ------------------
+Vivaldi
+# barishaillamofo@gmail.com   => Viva.La.Vida, Purnima.Chand.Jeno.Jholsano.Rut1
+------------------
 overleaf
 # fm.op@hotmail.com           => Mon.Demagi
 ------------------
